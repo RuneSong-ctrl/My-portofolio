@@ -27,6 +27,7 @@
 .dark-mode {
   --bg-color: #0b061f;
   --text-color: #fdfdfd;
+   --main-color: #573e90cb;
   --shadow-color: rgba(0, 0, 0, 0.7);
 }
 
